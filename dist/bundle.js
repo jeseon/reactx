@@ -12639,7 +12639,7 @@ var Header = function Header(props, context) {
         _react2.default.createElement(
             'div',
             { className: 'logo' },
-            'velopert'
+            'monos'
         ),
         _react2.default.createElement(
             'div',

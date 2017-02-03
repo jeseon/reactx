@@ -13,7 +13,7 @@ const Header = (props, context) => {
     return (
         <div>
             <div className="logo">
-                velopert
+                monos
             </div>
             <div className="menu">
                 <MenuItem to={'/'} active={router.isActive('/', true)}>홈</MenuItem>
